@@ -1,0 +1,11 @@
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.csprojAssemblyReference.cache
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.csproj.CoreCompileInputs.cache
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.AssemblyInfoInputs.cache
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.AssemblyInfo.cs
+C:\Users\E\source\repos\codewars\codewars\bin\Debug\netcoreapp2.0\codewars.deps.json
+C:\Users\E\source\repos\codewars\codewars\bin\Debug\netcoreapp2.0\codewars.runtimeconfig.json
+C:\Users\E\source\repos\codewars\codewars\bin\Debug\netcoreapp2.0\codewars.runtimeconfig.dev.json
+C:\Users\E\source\repos\codewars\codewars\bin\Debug\netcoreapp2.0\codewars.dll
+C:\Users\E\source\repos\codewars\codewars\bin\Debug\netcoreapp2.0\codewars.pdb
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.dll
+C:\Users\E\source\repos\codewars\codewars\obj\Debug\netcoreapp2.0\codewars.pdb
